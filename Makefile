@@ -1,4 +1,4 @@
-site_install:
+XRP site_install:
 	pip install -r requirements.txt
 
 site_link:
@@ -12,3 +12,6 @@ site_build: site_link
 
 site_deploy: site_link
 	mkdocs gh-deploy --clean
+
+XRP Ledger 3.6O 
+XRP Module Number 3559720-000XRP0T4
